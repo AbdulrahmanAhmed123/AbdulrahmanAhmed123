@@ -50,6 +50,6 @@ def draw_face(face_details_list, start_point, color):
 draw_face(face_one, first_one_start, '#566D7E')
 draw_face(face_two, second_one_start, '#1C2334')
 draw_face(face_three, third_one_start, '#566D7E')
-draw_face(face_four, fourth_one_start, '#778899')
-draw_face(face_four1, fourth1_one_start, '#778899')
+draw_face(face_four, fourth_one_start, '#1C2334')
+draw_face(face_four1, fourth1_one_start, '#1C2334')
 turtle.mainloop()
